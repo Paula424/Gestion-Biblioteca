@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'D:/1 DAM/PROGRAMACIÓN/GestionBiblioteca/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/1 DAM/PROGRAMACIÓN/GestionBiblioteca/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GestionBiblioteca 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GestionBiblioteca 1.0-SNAPSHOT API'
+com.mycompany.gestionbiblioteca
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\src\main\java = 1749589809846
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\allclasses-index.html = 1793277817507
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\allpackages-index.html = 1793277817510
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\element-list = 1793277817444
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\help-doc.html = 1793277817533
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\index-all.html = 1793277817526
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\index.html = 1793277817530
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\javadoc.bat = 1793277697650
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\member-search-index.js = 1793277817516
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\module-search-index.js = 1793277817512
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\overview-tree.html = 1793277817497
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\package-search-index.js = 1793277817513
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\search.html = 1793277817528
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\serialized-form.html = 1793277817465
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\tag-search-index.js = 1793277817517
+D:\1 DAM\PROGRAMACIÓN\GestionBiblioteca\target\reports\apidocs\type-search-index.js = 1793277817514
