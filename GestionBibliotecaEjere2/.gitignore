@@ -1,0 +1,33 @@
+
+# Archivos generados por Maven
+target/
+
+# Archivos compilados de Java
+*.class
+*.jar
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuraciones privadas de NetBeans
+nbproject/private/
+
+# Configuraciones de IntelliJ
+.idea/
+*.iml
+
+# Configuraciones locales
+.env
+.env.*
+!.env.example
+local.properties
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Claves y datos sensibles
+*.key
+*.pem
+secrets/
