@@ -1,0 +1,5 @@
+com\mycompany\gestionbiblioteca\GestionBiblioteca.class
+com\mycompany\gestionbiblioteca\EstadoLibro.class
+com\mycompany\gestionbiblioteca\GestionArchivos.class
+com\mycompany\gestionbiblioteca\Biblioteca.class
+com\mycompany\gestionbiblioteca\Libro.class
